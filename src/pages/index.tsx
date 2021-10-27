@@ -8,6 +8,7 @@ import Header from '../../components/Header';
 const mok = [
   { text: 'study nextjs', completed: false },
   { text: 'Participate in the promotion on twitter', completed: false },
+  { text: 'I will get', completed: true },
 ];
 
 export default function Home() {

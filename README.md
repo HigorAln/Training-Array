@@ -1,7 +1,8 @@
-Starting project
-materialui
-styled-component
-jest
-typescript
-eslint
-prettier
+## treinando manipulação de arrays, </br>Projeto feito para ser tipo de lembrete...
+
+Para ver
+```
+  yarn dev
+```
+
+<img src='./public/text.png'>
