@@ -8,7 +8,7 @@ export default createGlobalStyle`
         font-family: 'Ubuntu', sans-serif;
     }
     body{
-        background-color: white;
+        background-color:rgba(130, 61, 139, 0.8);
         color: black;
     }
 `;
